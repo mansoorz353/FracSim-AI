@@ -1,0 +1,5 @@
+{
+  "name": "FracSim AI: Hydraulic Fracturing Modeler",
+  "description": "A comprehensive 2D hydraulic fracturing simulation tool comparing PKN, KGD, and Radial models with sensitivity analysis. Features integrated AI for image editing, video generation, and deep technical reasoning using Gemini and Veo models.",
+  "requestFramePermissions": []
+}
